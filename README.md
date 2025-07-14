@@ -11,7 +11,7 @@ Diving into the academic adventure of pursuing both Electronics and Computers En
 
 ### Contact
 
-- **Email**: supriyakommini@gmail.com.com  
+- **Email**: supriyakommini@gmail.com  
 - **LinkedIn**: [linkedin.com/in/supriya-kommini](https://www.linkedin.com/in/supriya-kommini)
 
 ---

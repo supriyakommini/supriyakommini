@@ -2,9 +2,8 @@
 
 # Supriya Kommini
 
-**Computer Science Undergraduate**  
-Ramachandra College of Engineering  
-Secunderabad, Telangana, India
+Amrita Vishwa Vidyapeetham  
+Bangalore, Karnataka, India
 
 Diving into the academic adventure of pursuing both Electronics and Computers Engineering and a minor degree in Artificial Intelligence and Machine Learning simultaneously at Amrita Bangalore. Imagine a fusion of electronics precision and computer creativity! Seeking opportunities to engage in internships and collaborative projects that challenge and enrich my skills. Let's connect and explore the possibilities that emerge at the crossroads of my dual academic journey!
 

@@ -13,7 +13,7 @@ Diving into the academic adventure of pursuing both Electronics and Computers En
 
 - **Email**: supriyakommini@gmail.com  
 - **LinkedIn**: [linkedin.com/in/supriya-kommini](https://www.linkedin.com/in/supriya-kommini)
-
+- **Resume**: [View PDF](https://drive.google.com/file/d/15BHWq2PvUaSbBgRbZmKPHJaDKVhevb-p/view?usp=sharing)
 ---
 
 ### Languages and Tools
@@ -26,7 +26,11 @@ Diving into the academic adventure of pursuing both Electronics and Computers En
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Microsoft Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40" alt="Excel"/>
 </p>
+

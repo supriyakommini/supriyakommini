@@ -1,0 +1,33 @@
+![Banner](https://via.placeholder.com/1200x300.png?text=Supriya+Kommini+%7C+Computer+Science+Engineer)
+
+# Supriya Kommini
+
+**Computer Science Undergraduate**  
+Ramachandra College of Engineering  
+Secunderabad, Telangana, India
+
+Diving into the academic adventure of pursuing both Electronics and Computers Engineering and a minor degree in Artificial Intelligence and Machine Learning simultaneously at Amrita Bangalore. Imagine a fusion of electronics precision and computer creativity! Seeking opportunities to engage in internships and collaborative projects that challenge and enrich my skills. Let's connect and explore the possibilities that emerge at the crossroads of my dual academic journey!
+
+---
+
+### Contact
+
+- **Email**: supriya.email@example.com  
+- **LinkedIn**: [linkedin.com/in/supriya-kommini](https://www.linkedin.com/in/supriya-kommini)
+
+---
+
+### Languages and Tools
+
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Microsoft Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/>
+</p>
